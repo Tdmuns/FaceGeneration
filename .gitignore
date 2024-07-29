@@ -1,6 +1,7 @@
 # Ignore directories
 data/
 models/
+__pycache__/
 
 # Ignore all zip files
 *.zip
