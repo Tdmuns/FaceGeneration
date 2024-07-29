@@ -8,7 +8,7 @@ Generative Adversarial Networks (GANs) are a class of artificial intelligence al
 The objective of this project is to develop a GAN that can generate realistic human faces using the CelebA dataset. This provides a practical exploration into the complex dynamics of GANs and their applications in realistic image generation. The project serves as a foundational step towards understanding and leveraging the power of neural networks in creating lifelike images.
 
 ## Ongoing Development
-This project is actively under development with aims to improve the performance and stability of the GAN models. Future updates may include more sophisticated GAN architectures, enhanced preprocessing techniques, and optimizations for better resource utilization. Contributions and suggestions are welcome to help advance this project further.
+This project is actively under development with aims to improve the performance and stability of the GAN models. Future updates may include more sophisticated GAN architectures, enhanced preprocessing techniques, and optimizations for better resource utilization. 
 
 ## Project Setup Guide
 
